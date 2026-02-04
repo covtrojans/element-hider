@@ -1,2 +1,4 @@
 # element-hider
-Chromium extension used to block specific elements on specific websites.
+This is a chromium extension used to block specific elements on specific websites.
+
+It currently only blocks the chat on Chess.com. Other things may come.
