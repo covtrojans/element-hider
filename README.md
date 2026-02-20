@@ -1,7 +1,7 @@
 # element-hider
 This is a chromium extension used to block specific elements on specific websites.
 
-~~~~~Update Log~~~~~
+## Update Log
 
 3.1: Added a funny DK gif if the user likes Porygon.
 3.0: Combined the element-hider and proxy-closer extensions into one.
