@@ -12,3 +12,4 @@ This is a chromium extension used to block specific elements on specific website
 - 3.0: Combined the element-hider and proxy-closer extensions into one.
 
 	- 3.1: Added a funny DK gif if the user likes Porygon.
+	- 3.2: Blocked Google AI Overview on search results. 
