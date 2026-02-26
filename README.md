@@ -19,3 +19,4 @@ This is a chromium extension used to block specific elements on specific website
 	- 4.0.1: Blocks the comments on instructables.com
 	- 4.0.2: Fixed issue where instructuables.com comments weren't being hidden.
 	- 4.0.3: Blocked message buttons on instructables.com
+	- 4.0.4: Blocked every Google search variant URL that doesn't included a preset UDM code. This is to prevent students from clicking the "All" tab. Also added a feature that redirects search URLs that don't include a UDM code to UDM code 14 (Web) in case they started their search directly at www.google.com. Is this overkill? Maybe. We'll see if people complain.
