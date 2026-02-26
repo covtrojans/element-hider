@@ -14,3 +14,6 @@ This is a chromium extension used to block specific elements on specific website
 	- 3.1: Added a funny DK gif if the user likes Porygon.
 	- 3.2: Blocked Google AI Overview on search results. 
 	- 3.3: Blocked Chess.com profile bios and cards.
+
+- 4.0: An attempt to stop this dumb version numbering. I should've thought more about this beforehand.
+	- 4.0.1: Blocks the comments on instructables.com
