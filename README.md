@@ -18,3 +18,4 @@ This is a chromium extension used to block specific elements on specific website
 - 4.0: An attempt to stop this dumb version numbering. I should've thought more about this beforehand.
 	- 4.0.1: Blocks the comments on instructables.com
 	- 4.0.2: Fixed issue where instructuables.com comments weren't being hidden.
+	- 4.0.3: Blocked message buttons on instructables.com
